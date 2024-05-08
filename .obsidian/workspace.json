@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "21b413d04c2b61f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b58b7da9e02d7b6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f38450a8bc79b832",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas/Resumen de Informes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bf665b3bfa04eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas/Resumen de Informes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "221e01ad747740b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e711163ee53451d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c1465e9b74513a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8c2227166bd94fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95e7da9ec1bc32a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80bc7c1675678cd6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b16317d0ae0d4d11",
+    "type": "split",
+    "children": [
+      {
+        "id": "358bb74f9333ec7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d169136733bd254b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notas/Resumen de Informes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66f8398637dfd008",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notas/Resumen de Informes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c292661311d531c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c8f3707222631ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notas/Resumen de Informes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5bf665b3bfa04eec",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "notas/Resumen de Informes.md",
+    "README.md",
+    "notas"
+  ]
+}
