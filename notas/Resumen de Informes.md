@@ -1,4 +1,5 @@
 
+
 **Reportes:**
 - Necesitamos informes sobre quiénes están **inhabilitados**, quiénes **pidieron una baja temporal**, **prórroga** o **equivalencia**.
 - Debemos **guardar la documentación relacionada con prórrogas y equivalencias**.
