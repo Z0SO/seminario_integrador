@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas/Resumen de Informes.md",
+                "file": "Notas de Clase/2024-05-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas/Resumen de Informes.md",
+                "file": "Notas de Clase/2024-05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas/Resumen de Informes.md",
+                "file": "Notas de Clase/2024-05-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas/Resumen de Informes.md"
+                "file": "Notas de Clase/2024-05-29.md"
               }
             }
           }
@@ -161,11 +161,12 @@
   },
   "active": "5bf665b3bfa04eec",
   "lastOpenFiles": [
+    "notas/Resumen de Informes.md",
+    "Notas de Clase/2024-05-29.md",
     "Notas de Clase/2024-05-22.md",
     "2024-05-22.md",
     "2024 - mayo 22.md",
     "Notas de Clase",
-    "notas/Resumen de Informes.md",
     "Untitled.md",
     "README.md",
     "notas"
